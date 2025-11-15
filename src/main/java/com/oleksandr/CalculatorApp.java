@@ -28,7 +28,7 @@ public class CalculatorApp {
         return sc.nextFloat();
     }
     public static void calculateTwoNums(float num1, float num2, String operation){
-        String temp = "%.2f %s %.2f = %.2f";
+        String temp = "%.2f %s %.2f = %.2f\n";
 
         float result = 0;
 
