@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Hello world!
  *
  */
-public class App {
+public class CalculatorApp {
     static Scanner sc = new Scanner(System.in);
     public static void main( String[] args ) {
         System.out.println("Hello user!\nPlease write two numbers");
